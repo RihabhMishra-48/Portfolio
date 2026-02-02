@@ -118,7 +118,7 @@ const experiences = [
   {
     title: "React.js Developer",
     company_name: "Lumiq",
-    icon: starbucks,
+    icon:,
     iconBg: "#383E56",
     date: "june 2025-sept 2025",
     points: [
@@ -131,7 +131,7 @@ const experiences = [
   {
     title: "React Native Developer",
     company_name: "Lumiq",
-    icon: tesla,
+    icon:,
     iconBg: "#E6DEDD",
     date: "june 2025-sept 2025",
     points: [
@@ -144,7 +144,7 @@ const experiences = [
   {
     title: "Web Developer",
     company_name: "Lumiq",
-    icon: shopify,
+    icon: ,
     iconBg: "#383E56",
     date: "June 2025-sept 2025",
     points: [
@@ -157,7 +157,7 @@ const experiences = [
   {
     title: "Full stack Developer",
     company_name: "Lumiq",
-    icon: meta,
+    icon:,
     iconBg: "#E6DEDD",
     date: "June 2025-sept 2025",
     points: [
